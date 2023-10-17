@@ -1,0 +1,73 @@
+[
+    {
+      "id": "1",
+      "name": "Zapatillas de Running",
+      "description": "Zapatillas deportivas ideales para correr",
+      "quantity": 100,
+      "price": 10.99
+    },
+    {
+      "id": "2",
+      "name": "Balón de Fútbol",
+      "description": "Balón de fútbol de alta calidad para entrenamientos y partidos",
+      "quantity": 50,
+      "price": 19.99
+    },
+    {
+      "id": "3",
+      "name": "Raqueta de Tenis",
+      "description": "Raqueta de tenis profesional para jugadores avanzados",
+      "quantity": 75,
+      "price": 7.49
+    },
+    {
+      "id": "4",
+      "name": "Tabla de Surf",
+      "description": "Tabla de surf para los amantes del deporte acuático",
+      "quantity": 120,
+      "price": 14.99
+    },
+    {
+      "id": "5",
+      "name": "Gafas de Natación",
+      "description": "Gafas de natación antiempañantes para entrenamientos en la piscina",
+      "quantity": 200,
+      "price": 5.99
+    },
+    {
+      "id": "6",
+      "name": "Balón de Baloncesto",
+      "description": "Balón de baloncesto oficial para partidos y competencias",
+      "quantity": 60,
+      "price": 22.99
+    },
+    {
+      "id": "7",
+      "name": "Bicicleta de Montaña",
+      "description": "Bicicleta de montaña todo terreno para rutas deportivas",
+      "quantity": 85,
+      "price": 9.99
+    },
+    {
+      "id": "8",
+      "name": "Pesas de Entrenamiento",
+      "description": "Conjunto de pesas ideales para ejercicios de musculación",
+      "quantity": 40,
+      "price": 29.99
+    },
+    {
+      "id": "9",
+      "name": "Raqueta de Squash",
+      "description": "Raqueta de squash con diseño ligero para movimientos rápidos",
+      "quantity": 150,
+      "price": 12.49
+    },
+    {
+      "id": "10",
+      "name": "Casco de Ciclismo",
+      "description": "Casco de ciclismo aerodinámico para seguridad y comodidad",
+      "quantity": 90,
+      "price": 17.99
+    }
+  ]
+  
